@@ -1,0 +1,3 @@
+Domain layer goes here: plain TypeScript functions that own business rules.
+Knows nothing about HTTP, React, or Supabase — never imports from lib/data/
+outward, only the other way around.
